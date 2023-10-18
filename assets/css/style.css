@@ -284,7 +284,7 @@ p {
 }
 
 .top-50 {
-  margin-top: 50px;
+  margin-top: 0px;
   background-color: #f3f3f3;
   position: relative;
 }
@@ -433,7 +433,7 @@ p {
   background-color: #363636;
   color: #fff;
   display: inline-block;
-  padding: 30px;
+  padding: 24px;
 }
 
 .box .description .description-wrapper h3:after {
